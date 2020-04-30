@@ -16,6 +16,7 @@
 * [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 * [JSON:API v1.0](https://jsonapi.org)
 * [Semantic Versioning 2.0.0](https://semver.org)
+* [RFC3339](https://tools.ietf.org/html/rfc3339)
 
 Принципы:
 
