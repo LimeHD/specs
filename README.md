@@ -4,23 +4,8 @@
 
 [Принципиальная схема](https://docs.google.com/drawings/d/1W44GGFUHpDV_HZ6XtfzGzekCp00aCmDeNcFYRQP8hpQ/edit?usp=sharing)
 
-## Принципы и стандарты
 
-При разработке клиента придерживаемся следующих стандартов и принципов
-
-* HTTP 1.1
-  * [RFC7230](https://tools.ietf.org/html/rfc7230)
-  * [RFC7231](https://tools.ietf.org/html/rfc7231)
-  * [RFC7232](https://tools.ietf.org/html/rfc7232)
-  * [RFC7233](https://tools.ietf.org/html/rfc7233)
-  * [RFC7234](https://tools.ietf.org/html/rfc7234)
-  * [RFC7235](https://tools.ietf.org/html/rfc7235)
-* [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
-* [JSON:API v1.0](https://jsonapi.org)
-* [Semantic Versioning 2.0.0](https://semver.org)
-* [RFC3339](https://tools.ietf.org/html/rfc3339)
-
-Принципы:
+## Принципы
 
 * Явная передача параметров в запросе.
 * В запросе указывается ожидаемый тип контента `Accept` и `Accept-Language`
@@ -70,3 +55,19 @@
 * 1. Приватные HTTPS
 * 2. Cookies
 * 3. Access Token
+
+## Стандарты
+
+При разработке клиента придерживаемся следующих стандартов и принципов
+
+* HTTP 1.1
+  * [RFC7230](https://tools.ietf.org/html/rfc7230)
+  * [RFC7231](https://tools.ietf.org/html/rfc7231)
+  * [RFC7232](https://tools.ietf.org/html/rfc7232)
+  * [RFC7233](https://tools.ietf.org/html/rfc7233)
+  * [RFC7234](https://tools.ietf.org/html/rfc7234)
+  * [RFC7235](https://tools.ietf.org/html/rfc7235)
+* [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+* [JSON:API v1.0](https://jsonapi.org)
+* [Semantic Versioning 2.0.0](https://semver.org)
+* [RFC3339](https://tools.ietf.org/html/rfc3339)
