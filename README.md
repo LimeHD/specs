@@ -47,6 +47,17 @@
 * `X-Request-Id` – уникальный идентификатор запроса.
 * `X-Request-Time` – время обработки запроса.
 
+# Получение ссылки для стриминга (m3u8-плейлист)
+
+Ссылка формируется следующим образом:
+
+`{API_URL}/v1/streams/{STREAM_ID}/redirect`
+
+Пример: https://api.iptv2021.com/v1/streams/114/redirect
+
+Документация: https://api.iptv2021.com/#!/streams/getV1StreamsIdRedirect
+
+
 # Кеширование
 
 1. Плейлист
