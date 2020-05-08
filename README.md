@@ -52,9 +52,9 @@
 
 # Авторизация
 
-* 1. Приватные HTTPS
-* 2. Cookies
-* 3. Access Token
+* Приватные HTTPS
+* Cookies
+* Access Token
 
 ## Стандарты
 
