@@ -44,6 +44,14 @@
 
 # Кеширование
 
+Для управления кэшем используется заголовок 'Cache-Control'
+
+https://developer.mozilla.org/ru/docs/Web/HTTP/Кэширование'
+
+Пример endpoint-а со всегда вклёченным кэшем – https://api.iptv2021.com/#!/ping/getV1Ping
+
+## TODO добавить кэш в 
+
 1. Плейлист
 2. Программа
 
