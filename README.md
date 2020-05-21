@@ -2,6 +2,15 @@
 
 [Принципиальная схема](https://docs.google.com/drawings/d/1W44GGFUHpDV_HZ6XtfzGzekCp00aCmDeNcFYRQP8hpQ/edit?usp=sharing)
 
+По этой спецификации работают следующие модули:
+
+* https://github.com/LimeHD/ios-api-module
+* https://github.com/LimeHD/android-api-module
+
+API:
+
+* https://github.com/LimeHD/recomendy
+
 ## Принципы
 
 * Явная передача параметров в запросе.
